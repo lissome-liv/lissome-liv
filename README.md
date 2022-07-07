@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
  <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="400" height="320" />
 
-- 🔭 I’m currently working on ... Mobile App development( In flutter)
-- 🌱 I’m currently learning ... AR, ML
-- 👯 I’m looking to collaborate on ... Open Source
-- ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
+- 🔭 I’m currently dealing with...sales analytics and team management
+- 🌱 I’m currently learning ... python.
+- 👯 I’m looking to develope....ML based projects.
+- ⚡ Fun fact: ... lissome-liv actually means something.
 
  
  <br>
