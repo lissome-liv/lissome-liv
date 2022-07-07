@@ -14,7 +14,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
 
- [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
+ [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/lissome-liv/lissome-liv/blob/main/Palak%20Sharma%20CV%20updated.docx)
  
    
  <br>  
